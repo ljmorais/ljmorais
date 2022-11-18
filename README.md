@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luiz Jonathan
-- I learn some languagens programation.
+- I learn some languagens programation...
 
 
 <div align="center">
